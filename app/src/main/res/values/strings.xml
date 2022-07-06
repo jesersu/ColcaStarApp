@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColcaStar</string>
+    <string name="saved_device_name_imp">NamePrinterDevice</string>
+    <string name="saved_device_address_imp">AddresPrinterDevice</string>
+    <string name="saved_num_copy_imp">NumCopies</string>
+    <string name="saved_automatic_cuts">AutomaticCuts</string>
+</resources>
